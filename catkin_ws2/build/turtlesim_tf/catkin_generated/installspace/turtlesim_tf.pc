@@ -1,0 +1,8 @@
+prefix=/home/twy/catkin_ws2/install
+
+Name: turtlesim_tf
+Description: Description of turtlesim_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
